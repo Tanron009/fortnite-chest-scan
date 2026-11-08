@@ -7,6 +7,8 @@ Shows chests per match, your total, and your average per match.
 Accuracy is not fully verified: it was tested on one replay from Fortnite build 43. Use `--debug` to sanity check it
 against a match where you know your real chest count.
 
+**I recommend copying your replay files somewhere else first (for example a folder on your desktop) and pointing the tool at that copy, so it can't accidentally touch any game files.** The tool only reads replay files, but a copy is the safest way.
+
 ## Use the ready-made exe
 1. Unzip `chestscan-exe.zip`.
 2. Double-click `chestscan.exe` and pick the folder with your replays (or drag the folder onto the exe).
